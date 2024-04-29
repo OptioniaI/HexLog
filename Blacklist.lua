@@ -1,0 +1,7 @@
+return {
+    [""] = {
+        Name = "",
+        User = "",
+        Ping = ""
+    }
+}
